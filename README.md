@@ -71,3 +71,6 @@ This web app has the following functionalities:-
 8. Entire web app can be surfed without logging in for user's ease and attraction for new users. Only 	certain features such as dashboard, and marking interested are available upon log in.
 
 9. Through the entire web app, each and every excetion is handled well using custom codes and UI,	such that they are easily managed, and user can get to know the fault.
+
+![1](https://github.com/JayantAggrwal/PGLIFE/assets/88024419/693bd22f-90a9-4607-a035-da50c4529096)
+![2](https://github.com/JayantAggrwal/PGLIFE/assets/88024419/9cf988ce-f5e3-4ad7-8e50-4253d68e1d21)
