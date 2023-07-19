@@ -1,2 +1,5 @@
-# PGLIFE
-Successfully completed a 8 weeks online certified training on Web Development. The training consisted of HTML, CSS, Bootstrap, DBMS, PHP, JS, React, and Final Project modules. I scored 97% in the final assessment and was a top performer in the training.
+# PGlife
+This is a website with some exciting functionality 
+
+Due to the existence of the database, it cannot be hosted on GitHub
+I will link the video . watch in Linkedln
